@@ -1,4 +1,4 @@
-Hi there, I'm Rittij Mazumder! 👋
+# **Hi there, I'm Rittij Mazumder! 👋**
 
 🚀 **About Me**  
 I’m a MERN Stack Developer with hands-on experience in building dynamic, full-stack web and mobile applications using **React.js**, **Node.js**, **Express**, **MongoDB**, and **React Native**. I enjoy solving real-world problems with clean code, intuitive UI/UX, and performance-oriented development. I'm passionate about creating cross-platform solutions that are scalable, efficient, and user-friendly.
