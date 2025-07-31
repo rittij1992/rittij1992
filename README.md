@@ -43,9 +43,9 @@ I’m a MERN Stack Developer with hands-on experience in building dynamic, full-
 
 ### 📫 **Connect with Me**
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-username/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/rittij-mazumder-web-dev/)
 - 🐱 [GitHub](https://github.com/rittij1992)
-- 📧 Email: your.email@example.com
+- 📧 Email: rittij.mazumder@gmail.com
 
 ---
 
